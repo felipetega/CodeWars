@@ -1,6 +1,6 @@
 # [Code Wars](https://www.codewars.com/dashboard)
 
-<img src="https://www.codewars.com/users/felipetega/badges/large" title="Clique para acessar meu perfil">
+<img src="https://www.codewars.com/users/felipetega/badges/large" title="Honor">
 
 ## Python
 ### 6 kyu
