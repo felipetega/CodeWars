@@ -1,0 +1,9 @@
+VARIABLE NULL = int? res = null;
+                   ^
+
+APPEND IN ARRAY = 
+
+int[] res = new int[input.Length]; //ARRAY LENGTH
+for(int i=0;i<input.Length;i++){
+    res[i]= -input[i];             //ARRAY INDEX
+}
